@@ -1,5 +1,6 @@
 # To add in git branch br1.
 # Changes will remain in br1 branch only. Not master branch.
+# Unless you merge br1 branch with master branch.
 import random
 
 highest = 1000
